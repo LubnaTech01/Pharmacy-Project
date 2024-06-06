@@ -9,7 +9,7 @@ $('#menu-close').click (function(){
 
 // -----------------------------------------------------------------
 $(document).ready(function() {
-    $.getJSON('data/data.json', function(data) {
+    $.getJSON( function(data) {
         let medicinesHtml = '';
         data.medicines.forEach(function(medicine) {
             medicinesHtml += `
