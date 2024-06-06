@@ -1,0 +1,28 @@
+{
+    "medicines": [
+        {"name": "Aspirin.", "use": "Aspirin is used to reduce fever and relieve mild to moderate pain from conditions such as muscle aches, toothaches, common cold, and headaches", "price": " Price: $10", "image":"C:/Users/PMYLS/Desktop/IMG-20230112-WA0081_2.jpg"},
+        {"name": "Ibuprofen.", "use":"used to reduce fever and to relieve minor aches and pain from headaches, muscle aches, arthritis, menstrual periods, the common cold, toothaches, and backaches.", "price": "Price: $15"},
+        {"name": "Paracetamol.","use":"This drug is used to treat mild to moderate pain (from headaches, menstrual periods, toothaches, backaches, osteoarthritis, or cold/flu aches and pains) and to reduce fever.", "price": "Price: $12"},
+        {"name": "Adderall.","use":"Adderall has been FDA approved to treat both ADHD and narcolepsy. It has not been approved as a treatment for depression or anxiety.", "price": "Price: $22"},
+        {"name": "Atorvastatin.","use":"It is used to lower cholesterol if you've been diagnosed with high blood cholesterol and prevent heart disease, including heart attacks and strokes.", "price": "$62"},
+        {"name": "Ativan.","use":"Ativan is used in adults and children at least 12 years old to treat anxiety disorders. Ativan is also used to treat insomnia caused by anxiety or temporary situational stress.", "price": "Price: $12"},
+        {"name": "Amoxicillin.","use":"Amoxicillin is used to treat certain infections caused by bacteria, such as pneumonia; bronchitis and infections of the ears, nose, throat, urinary tract, and skin.", "price": "Price: $45"},
+        {"name": "Paracetamol.","use":"This drug is used to treat mild to moderate pain (from headaches, menstrual periods, toothaches, backaches, osteoarthritis, or cold/flu aches and pains) and to reduce fever.", "price": "Price: $25"}
+
+    ],
+    "employe": [
+        {"name": "Dr. Arsalan", "position": "Pharmacist", "salary": "$4000/month" ,"contact":"arsalan@emailcom"},
+        {"name": "Mr. Ahmed", "position": "Packaging Specialist", "salary": "$3000/month","contact":"ahmed@emailcom"},
+        {"name": "Mr.. Zubair", "position": "Quality Control", "salary": "$3500/month","contact":"zubair@emailcom"},
+        {"name": "Mr. Ali", "position": "Sales Representative", "salary": "$3200/month","contact":"ali@emailcom"}
+    
+    ],
+    "vendors": [
+        {"name": "HealthSupply Co.", "service": "Provides medical supplies", "contact": "cont@healthsupply.com"," address": "Dubai, UAE"},
+
+        {"name": "MedEquip", "service": "Supplies medical equipment", "contact": "support@medequip.com", "addrress":  "Islamabad, PAK"},
+   
+        {"name": "GlobalPharma", "service": "International pharmaceutical supplier", "contact": "sales@globalpharma.com", "address": "Dubai, UAE"},
+        {"name": "BioHealth Solutions", "service": "Biotechnology research and development", "contact": "info@biohealth.com", "address": "New York, USA"} ]
+
+}
